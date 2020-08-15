@@ -4,7 +4,7 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 
 ---
 
-**- 🔭 I’m currently focussing on ...**
+**- I’m currently focussing on ...**
 
       Competitive Coding, React js, Node js, Express js, MondoDB , ASP.NET, .NET Core, Laravel, GCP, React Native
       I'm currently working on Full MEAN Stack Development
@@ -52,9 +52,9 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 
 ---
 
-**- 📫 How to reach me 🌍 : ...**
-##### 💌Mail me [jwalitshah2q@gmail.com]()
-##### 📞Call ME [+919427921800]()
+# 📫 How to reach me : #
+### 💌Mail me [jwalitshah2q@gmail.com]()
+### 📞Call ME [+919427921800]()
 
 
 # Social Media #
