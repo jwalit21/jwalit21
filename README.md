@@ -1,5 +1,8 @@
-## I'm Jwalit 👋
-## I'm a 3rd year student, persuing Batchler's in Computer Engineering from Dharmsinh Desai University.
+# Hi, I'm Jwalit Shah 👋🎓‍💻
+
+I'm a3rd year student in BE Computer engineering from Dharmsinh Desai University, who is passionate about JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and .NET development. I recently completed my Summer internship 2020 at Atliq technologies,vadodara as a Software Developer. I am a Github education Program recievie and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
+
+---
 
 **- 🔭 I’m currently focussing on ...**
 
