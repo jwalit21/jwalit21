@@ -18,13 +18,17 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 <code> <img title="Flutter" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 
+<br>
+
 ## Internships
 - Software development engineer intern in summer 2020 at [Atliq Technologies](https://www.atliq.com/)
 
 ## Communities
 - Web Development Team Member at [DSC DDU](https://www.dscddu.com/)
 - Internshala Student Partner 18 at [Internshala](https://internshala.com/)
-      
+
+<br>    
+ 
 ## Skills
 
 <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
@@ -79,7 +83,7 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jwalit21/)
 
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting:
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jwalit21/count.svg" />
