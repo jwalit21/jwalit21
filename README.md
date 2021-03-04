@@ -1,6 +1,6 @@
 # Hi, I'm Jwalit Shah 👋🎓‍💻
 
-I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai University, who is passionate about Python (Django) & JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and .NET development(dotnet core & ASP.net). I recently completed my Summer internship 2020 at Atliq technologies,vadodara as a Software Developer Engineer. I'm a active member of Developer Students Club,DDU since Nov'2020. I am a Github education Program recievie and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
+I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai University, who is passionate about Python (Django) & JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and .NET development(dotnet core, ASP.net, WEB API and WCF). I recently completed my Summer internship 2020 at Atliq technologies,vadodara as a Software Developer Engineer. I'm a active member of Developer Students Club,DDU since Nov'2020. I am a Github education Program recievie and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
 
 ---
 
@@ -15,7 +15,7 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code> <img title="Flutter" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
+<code> <img title="Dhango" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 
 <br>
@@ -32,7 +32,7 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 ## Skills
 
 <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
-<code> <img title="Flutter" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
+<code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
 <code> <img title="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/></code>
 <code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
 <code> <img title="Angular" height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/> <code>
