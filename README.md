@@ -21,7 +21,8 @@ I'm a 3rd year student in BE Computer engineering from Dharmsinh Desai Universit
 <br>
 
 ## Internships
-- Software development engineer intern in summer 2020 at [Atliq Technologies](https://www.atliq.com/)
+- Software development engineer intern in summer 2020 at [Atliq Technologies](https://www.atliq.com/) 
+- Software development engineer intern in summer 2021 at [Atliq Technologies](https://www.atliq.com/) 
 
 ## Communities
 - Web Development Team Member at [DSC DDU](https://www.dscddu.com/)
