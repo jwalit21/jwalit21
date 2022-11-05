@@ -10,14 +10,14 @@ I'm a graduate student in Masters of Applied Computer Science from Concordia Uni
       I'm currently working on Full Stack Development
       I'm looking forward to have a good apportunity of a Software Engineering Internship.
 
-**💼 Currently Studying at :** <a href="https://ddu.ac.in/" target="_blank"><b>Dharmsinh Desai University</b></a>
-
+**💼 Currently Studying at :** <a href="[https://ddu.ac.in/](https://www.concordia.ca/)" target="_blank"><b>Concordia University</b></a>
+<!-- 
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code> <img title="Dhango" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-
+ -->
 <br>
 
 ## Internships
