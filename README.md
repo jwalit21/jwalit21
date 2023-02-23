@@ -1,6 +1,6 @@
 # Hi, I'm Jwalit Shah 👋🎓‍💻
 
-I'm a graduate student in Masters of Applied Computer Science from Concordia University, Montreal, who is passionate about Java, Python (Django) & JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and .NET development(dotnet core, ASP.net, WEB API and WCF). I recently completed my SDE internship at Amazon, India from Jan-2022 to June-2022. I also had my Summer internship 2020 and 2021 at Atliq technologies,vadodara as a Software Developer Engineer. I've served as Head of Web Development team of Google Developer Students Club,DDU since Nov'2020. I am a Github education Program recievie and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
+I'm a graduate student in Masters of Applied Computer Science from Concordia University, Montreal, who is passionate about Java, Python (Django) & JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and .NET development(dotnet core, ASP.net, WEB API and WCF). I'm working as Software Developer at NAV CANADA. I completed my SDE internship at Amazon, India from Jan-2022 to June-2022. I also had my Summer internship 2020 and 2021 at Atliq technologies,vadodara as a Software Developer Engineer. I've served as Head of Web Development team of Google Developer Students Club,DDU since Nov'2020. I am a Github education Program recievie and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
 
 ---
 
@@ -19,6 +19,9 @@ I'm a graduate student in Masters of Applied Computer Science from Concordia Uni
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
  -->
 <br>
+
+## Experience
+- Software Developer at NAV CANADA, Ottawa from Jan 2023 - Present
 
 ## Internships
 - SDE Intern at Amazon, India from Jan-2022 to June-2022
