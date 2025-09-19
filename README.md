@@ -1,103 +1,96 @@
-# Hi, I'm Jwalit Shah 👋🎓‍💻
+# Hi, I'm Jwalit Shah 👋 🚀
 
-I'm a graduate student in Masters of Applied Computer Science from Concordia University, Montreal, who is passionate about Java, Python (Django) & JavaScript Full Stack Web Development (MERN and MEAN Stack Technologies) and .NET development(dotnet core, ASP.net, WEB API and WCF). I'm working as Software Developer at NAV CANADA. I completed my SDE internship at Amazon, India from Jan-2022 to June-2022. I also had my Summer internship 2020 and 2021 at Atliq technologies,vadodara as a Software Developer Engineer. I've served as Head of Web Development team of Google Developer Students Club,DDU since Nov'2020. I am a Github education Program recievie and I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
+I’m a Software Engineer passionate about building **scalable full-stack enterprise solutions** and **AI-driven tools** that drive customer growth at scale.  
 
----
-
-**- I’m currently focussing on ...**
-
-      Java, Guice, OE/EE, Competitive Coding, React js, Angular, Node js, Express js, MondoDB , ASP.NET, .NET Core, Laravel, React Native
-      I'm currently working on Full Stack Development
-      I'm looking forward to have a good apportunity of a Software Engineering Internship.
-
-**💼 Currently Studying at :** <a href="[https://ddu.ac.in/](https://www.concordia.ca/)" target="_blank"><b>Concordia University</b></a>
-<!-- 
-**👨🏻‍💻 Currently working on:** 
-
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code> <img title="Dhango" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
- -->
-<br>
-
-## Experience
-- Software Developer at NAV CANADA, Ottawa from Jan 2023 - Present
-
-## Internships
-- SDE Intern at Amazon, India from Jan-2022 to June-2022
-- Software development engineer intern in summer 2020 at [Atliq Technologies](https://www.atliq.com/) 
-- Software development engineer intern in summer 2021 at [Atliq Technologies](https://www.atliq.com/) 
-
-## Communities
-- X-Head of Web Development at [GDSC DDU](https://www.dscddu.com/)
-- Internshala Student Partner 18 at [Internshala](https://internshala.com/)
-
-<br>    
- 
-## Skills
-
-<code> <img title="JAVA" height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" /> </code>
-<code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
-<code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </code>
-<code> <img title="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/></code>
-<code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
-<code> <img title="Angular" height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/> <code>
-<code> <img title="Flutter" height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"/> <code>
-<code> <img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> <code>
-<code> <img title="nodejs" height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/></code>
-<code> <img title="expressjs" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/></code>
-<code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
-<code> <img title="asp" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" /> </code>
-<code> <img title="PHP"  height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/></code>
-<code> <img title="Laravel"  height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"/></code>
-<code> <img title="Typescript"  height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/></code>
-<code> <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
-<code> <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code> <img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
-<code> <img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
-<code> <img title="reactjs" height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></code>
-<code> <img title="wordpress" height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" /></code>
-<code>
-  
----
-
-# Statistics #
-
-![Jwalit's github stats](https://github-readme-stats.vercel.app/api?username=jwalit21&show_icons=true&theme=tokyonight)
-
-# Most Used Language #
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jwalit21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+Currently, I work at **Autodesk** (Toronto) on the **Digital Experience & Account Customer Success team**, where I lead initiatives that improve user engagement and subscription renewals through **React, TypeScript, Node.js, Microfrontends, and AI-powered developer workflows**.  
 
 ---
 
-# Competitive Coding Profile #
+## 💼 Experience
 
-[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jwalitshah2q/)	
-[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/illogical_man/)
+- **Software Engineer, Autodesk** (June 2024 – Present, Toronto, ON)  
+  - Developing customer-facing **Account Portal** using Microfrontend architecture.  
+  - Leading **Subscription Renewal initiatives** → drove **13% increase in early renewals** with A/B testing and analytics.  
+  - Built **AI-driven workflow automation** with *n8n + GPT models* → reduced code review prep time by **20%**.  
+  - Drove **30% user engagement growth** through cross-team Navigation Redesign project across 25+ repos.  
+  - Ensuring engineering excellence: 100% unit test coverage, Playwright E2E tests, SPA performance optimizations.  
+  - On-call monitoring with **Catchpoint & Dynatrace**.
+
+- **Software Developer, NAV CANADA** (Dec 2022 – June 2024, Ottawa, ON)  
+  - Built ETL system with **Node.js, Django, Vue.js, MySQL**.  
+  - Increased availability of a key service by **40%** using Kubernetes ingress optimizations.  
+  - Developed **event-driven microservices** & WebSocket-based services for live flight data.  
+  - Reduced system load by **50%** via NGNIX proxy caching.
+
+- **SDE Intern, Amazon** (Jan – June 2022, Bangalore, India)  
+  - Built Notification Module & REST/GraphQL APIs using **Java (Spring Guice), React, DynamoDB**.  
+  - Delivered features improving **counter operations availability to 99.99%**.  
+  - Created dashboards that improved on-call efficiency by **50%**.  
+
+- **SDE Intern, AtliQ Technologies** (Summer 2020 & 2021, Vadodara, India)  
+  - Built payroll and leave management system using **Laravel, React, Vue.js, MySQL**.  
+  - Developed REST APIs and tested with Postman in Agile environment.  
 
 ---
 
-# 📫 How to reach me : #
-### 💌Mail me [jwalitshah2q@gmail.com]()
-### 📞Call ME [+919427921800]()
+## 🎓 Education
 
+- **Concordia University** – M.Applied Computer Science (Distinction, CGPA: 3.77/4.3)  
+- **Dharmsinh Desai University** – B.Engg. Computer Engineering (Gold Medalist, CGPA: 9.67/10)  
 
-# Social Media #
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jwalit21)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jwalit21/)
+---
 
+## ⚡ Skills
 
-#### Thanks for visiting:
+**Languages & Frameworks:**  
+JavaScript, TypeScript, ReactJS, Redux, NodeJS, VueJS, Angular, Python, Django, Spring Boot  
+
+**Databases:**  
+DynamoDB, MongoDB, Redis, MySQL, PostgreSQL  
+
+**AI Engineering & Workflow Automation:**  
+n8n, MCP, Azure OpenAI, Prompt Engineering, GitLab Webhooks  
+
+**DevOps & Tools:**  
+Docker, Kubernetes, NGNIX, REST, Microfrontend, GraphQL, BigQuery, Linux, Git, Jira, Postman, Adobe Analytics, LaunchDarkly, Grafana, Speedcurve  
+
+---
+
+## 🛠️ Projects
+
+- [**Bitmap Index Join Database Engine**](https://github.com/jwalit21/BitmapJoinDatabaseEngine) (Java, PostgreSQL)  
+  Scalable engine to perform bitmap-index-based joins with RLE compression.  
+
+- [**HyperQuickSort**](https://github.com/jwalit21/HyperQuicksort) (C/C++, MPI)  
+  Distributed QuickSort over mesh topology with message passing.  
+
+- [**Medium Blog: HyperQuickSort**](https://medium.com/@jwalitshah2q/hyper-quick-sort-a16eee2e4093)  
+
+---
+
+## 📊 GitHub Stats
+
+![Jwalit's github stats](https://github-readme-stats.vercel.app/api?username=jwalit21&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jwalit21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jwalit21/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/jwalit21)  
+📩 **Email:** [jwalitshah2q@gmail.com](mailto:jwalitshah2q@gmail.com)  
+📞 **Phone (CA):** +1 438 979 1626  
+
+---
+
 <p align="center"> 
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/jwalit21/count.svg" />
 </p>
 
-
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+⭐️ Show some ❤️ by starring my repositories!
 
 </div>
-
